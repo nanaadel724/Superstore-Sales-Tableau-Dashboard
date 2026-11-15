@@ -6,7 +6,8 @@
 ---
 
 ## 🖼️ معاينة الداشبورد (Dashboard Preview)
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard%201.png)
+
 
 ---
 
